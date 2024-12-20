@@ -1,0 +1,9 @@
+psutil
+numba
+numpy
+pyautogui
+opencv-python
+pillow
+pygetwindow
+pytesseract
+matplotlib
